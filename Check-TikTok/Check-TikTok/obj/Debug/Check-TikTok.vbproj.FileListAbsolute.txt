@@ -1,0 +1,11 @@
+F:\source\repos\Check-TikTok\Check-TikTok\bin\Debug\Check-TikTok.exe.config
+F:\source\repos\Check-TikTok\Check-TikTok\bin\Debug\Check-TikTok.exe
+F:\source\repos\Check-TikTok\Check-TikTok\bin\Debug\Check-TikTok.pdb
+F:\source\repos\Check-TikTok\Check-TikTok\bin\Debug\Check-TikTok.xml
+F:\source\repos\Check-TikTok\Check-TikTok\obj\Debug\Check-TikTok.vbprojAssemblyReference.cache
+F:\source\repos\Check-TikTok\Check-TikTok\obj\Debug\Check_TikTok.Form1.resources
+F:\source\repos\Check-TikTok\Check-TikTok\obj\Debug\Check_TikTok.Resources.resources
+F:\source\repos\Check-TikTok\Check-TikTok\obj\Debug\Check-TikTok.vbproj.GenerateResource.cache
+F:\source\repos\Check-TikTok\Check-TikTok\obj\Debug\Check-TikTok.exe
+F:\source\repos\Check-TikTok\Check-TikTok\obj\Debug\Check-TikTok.xml
+F:\source\repos\Check-TikTok\Check-TikTok\obj\Debug\Check-TikTok.pdb
